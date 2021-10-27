@@ -21,3 +21,4 @@ Proof of Stake GioTex Tokens can be staked to earn more GioTex tokens.
 Itis planned to reward 500 million GioTex Tokens in 2 years.
 Lendingthe amount,the user can lend dependson the amount and value
 ofGioTex Tokens theyhold. 
+
